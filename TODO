@@ -1,3 +1,6 @@
-* utilizzo slides
+* magic commands (%run, %env, %load, %%timeit..)
+* execute shell commands (!ls, !pip install numpy, ..)
+* %matplotlib inline
+* use as slides (RISE) https://github.com/damianavila/RISE
 * jupyter notebook and git: http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/
 * 
